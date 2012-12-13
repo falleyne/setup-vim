@@ -1,7 +1,7 @@
 Setup VIM
 ==========
 
-Run command:
+If on Mac OS X, continue to curl cmd, if on Linux or don't have 'vim' run command:
 	
 	sudo apt-get install vim
 
