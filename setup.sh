@@ -4,7 +4,7 @@ curl -Sso ~/.vim/autoload/pathogen.vim \
     https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
 
 curl -Sso ~/.vimrc \
-	https://github.com/falleyne/setup-vim/raw/master/.vimrc
+	https://raw.github.com/falleyne/setup-vim/master/setup.sh
 
 git clone git://github.com/vim-ruby/vim-ruby.git ~/.vim/bundle/vim-ruby
 
