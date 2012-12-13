@@ -2,6 +2,7 @@ Setup VIM
 ==========
 
 Run command:
+	
 	sudo apt-get install vim
 
 Then run this to quickly setup syntax highlighting:
